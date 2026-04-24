@@ -19,7 +19,7 @@ I'm currently working on 6g based smart grid control system <br><br>I'm looking 
 [![](https://komarev.com/ghpvc/?username=likithurskj&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Likith Urs kj) 
-
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Likith kj) 
+p
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
