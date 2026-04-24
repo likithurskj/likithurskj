@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on 6g based smart grid control system <br><br>I'm looking to collaborate on any open source projects <br><br><br>I'm looking for help with Communication<br><br>I'm currently learning marketing  and using all kind of ai in my daily<br><br>Fun fact I'm a terrible bater <br><br> <br>   <br><br> <br><br>
+I'm currently working on 6g based smart grid control system <br><br>I'm looking to collaborate on any open source projects <br><br>I'm looking for help with Communication<br><br>I'm currently learning marketing  and using all kind of ai in my daily<br><br>Fun fact I'm a terrible bater 
 
 
 ## 🌐 Socials:
